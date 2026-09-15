@@ -14,7 +14,7 @@
 
 看见右边那个Release没，去那下载，我已经打包好了可执行文件了。
 
-最终结果应该如图所示：
+最终结果应该如图所示（记得手动删除一下不符合你课程情况的英语课，以及手动添加自己的通识选修课部分）：
 
 <img width="933" height="1032" alt="QQ_1789485622771" src="https://github.com/user-attachments/assets/081c23be-f702-41e1-903d-7dfb76ef4c7a" />
 
