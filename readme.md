@@ -16,7 +16,7 @@
 
 最终结果应该如图所示：
 
-<img src="C:\Users\Aimer\Desktop\QQ_1789485622771.png" style="zoom:50%;" />
+<img width="933" height="1032" alt="QQ_1789485622771" src="https://github.com/user-attachments/assets/081c23be-f702-41e1-903d-7dfb76ef4c7a" />
 
 ## 如果你要自己用的话
 
