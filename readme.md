@@ -16,20 +16,19 @@
 
 最终结果应该如图所示：
 
-<img src="C:\Users\Aimer\Desktop\QQ_1789485622771.png" alt="QQ_1789485622771" style="zoom:50%;" />
+<img src="C:\Users\Aimer\Desktop\QQ_1789485622771.png" style="zoom:50%;" />
 
 ## 如果你要自己用的话
 
 ```
-```bash
-# 1. 克隆仓库
-git clone https://github.com/你的用户名/仓库名.git
+1. 克隆仓库
+git clone https://github.com/Yukiko-Official/TP2MD.git
 cd 仓库名
 
-# 2. 安装依赖
+2. 安装依赖
 pip install -r requirements.txt
 
-# 3. 运行
+3. 运行
 python 培养方案.py
 ```
 
