@@ -8,17 +8,13 @@
 
 手动登录ehall，我还没能做出自动人机验证的本事。
 
-带图形界面（PySide6）：点一下「开始抓取」就行，进度条和运行日志实时显示，中途可以随时停止。
-
-英语班型（初级 / 中级 / 高级）在界面上选，导出时只留你那一档，另外两档整块去掉——不然那份选修课清单会在三个班型下各出现一遍。
-
 导出干净的JSON（方便电脑处理）和Markdown文件（方便能工智人处理）。
 
 ## 使用方法
 
 看见右边那个Release没，去那下载，我已经打包好了可执行文件了。
 
-最终结果应该如图所示（英语班型会自动筛，通识选修课部分还是要手动补）：
+最终结果应该如图所示（记得手动删除一下不符合你课程情况的英语课，以及手动添加自己的通识选修课部分）：
 
 <img width="933" height="1032" alt="QQ_1789485622771" src="https://github.com/user-attachments/assets/081c23be-f702-41e1-903d-7dfb76ef4c7a" />
 
@@ -26,7 +22,7 @@
 
 ```
 1. 克隆仓库
-git clone https://github.com/Yukiko-Official/TP2MD_V2.git
+git clone https://github.com/Yukiko-Official/TP2MD.git
 cd 仓库名
 
 2. 安装依赖

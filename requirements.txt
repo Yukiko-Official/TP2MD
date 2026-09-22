@@ -1,2 +1,1 @@
 selenium>=4.6.0
-PySide6>=6.5.0
