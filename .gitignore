@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyInstaller 打包产物
+build/
+dist/
+
+# 运行产物（个人培养方案数据，别提交）
+培养方案.json
+培养方案.md
+error.png
+debug_html/
+debug.log
